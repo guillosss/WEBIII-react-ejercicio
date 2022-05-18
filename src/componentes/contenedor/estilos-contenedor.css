@@ -1,0 +1,14 @@
+.paginacion{
+    display: flex;
+    justify-content:center ;
+}
+.atras{
+    background-color: brown;
+    columns: white;
+    border-radius: 10px;
+}
+.adelante{
+    background-color: brown;
+    columns: white;
+    border-radius: 10px;
+}
